@@ -2,7 +2,7 @@
 
 This distribution provides a library implementing the approximate memory-efficient deep network training algorithm described in our paper:
 
-Ayan Chakrabarti and Benjamin Moseley, "**[Backprop with Approximate Activations for Memory-efficient Network Training](https://arxiv.org/abs/1901.07988)**", arXiv:1901.07988 [cs.LG], 2019.
+Ayan Chakrabarti and Benjamin Moseley, "**[Backprop with Approximate Activations for Memory-efficient Network Training](https://arxiv.org/abs/1901.07988)**", NeurIPS, 2019.
 
 
 If you find our method or library useful in your research, please consider citing the above paper.
